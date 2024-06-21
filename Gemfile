@@ -7,3 +7,5 @@ gemspec
 group :test do
   gem "html-proofer", "~> 5.0"
 end
+
+gem 'jekyll-timeago', '~> 0.15.0'
